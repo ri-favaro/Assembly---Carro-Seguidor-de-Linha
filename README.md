@@ -1,4 +1,4 @@
-# Assembly---Carro-Seguidor-de-Linha
+# C---Carro-Seguidor-de-Linha
 
 Projeto feito para a materia Programação de hardware, onde foi solicitado que fizessemos um robo seguidor de linha, programando em C, com o intuito de otimizar ao máximo a performance do carrinho.
 Nesse projeto você pode encontrar a documentação em formato Doxygen, Imagens do projeto final, ProjCarrinho.ino (possui o código em C++, ProjetoCarrinho_V6.ino (possui o código em C), 
